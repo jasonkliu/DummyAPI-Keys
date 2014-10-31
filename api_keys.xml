@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- This key is enabled for the Google Maps Android API v2 service. Go to the
+     Google APIs Console (https://code.google.com/apis/console/)
+     to register a new developer key.  -->
+
+    <string name="GoogleMapsKey">gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe</string>
+
+</resources>
