@@ -14,5 +14,6 @@ public class DeveloperKey {
    * register a new developer key.
    */
   public static final String DEVELOPER_KEY = "gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe";
+  public static final String FLICKR_API_KEY = "UWEJSjjsdkfjdsfurwRUiwefNOTREALd";
 
 }
