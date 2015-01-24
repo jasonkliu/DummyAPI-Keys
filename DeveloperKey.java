@@ -15,5 +15,7 @@ public class DeveloperKey {
    */
   public static final String DEVELOPER_KEY = "gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe";
   public static final String FLICKR_API_KEY = "UWEJSjjsdkfjdsfurwRUiwefNOTREALd";
+  public static final String INSTAGRAM_CLIENT_ID = "UWEJSjjsdkfjdsfurwRUiwefNOTREALd";
+  public static final String INSTAGRAM_CLIENT_SECRET = "dcSjjsdkfjdsfurwRUiwefNOTREALd";
 
 }
