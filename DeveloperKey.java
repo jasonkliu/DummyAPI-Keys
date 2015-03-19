@@ -1,21 +1,15 @@
-// Copyright 2012 Google Inc. All Rights Reserved.
-
-package edu.yalestc.yalepublic;
+package com.jasonkliu.qualtricsapi;
 
 /**
- * Static container class for holding a reference to your YouTube Developer Key.
+ * Static container class for holding a reference to your Qualtrics Developer Key.
  */
 public class DeveloperKey {
 
   /**
    * Please replace this with a valid API key which is enabled for the
-   * YouTube Data API v3 service. Go to the
-   * <a href="https://code.google.com/apis/console/">Google APIs Console</a> to
-   * register a new developer key.
+   * Qualtrics service. Go here to register a new developer key:
+   * http://www.qualtrics.com/university/researchsuite/developer-tools/api-integration/qualtrics-rest-api/
    */
-  public static final String DEVELOPER_KEY = "gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe";
-  public static final String FLICKR_API_KEY = "UWEJSjjsdkfjdsfurwRUiwefNOTREALd";
-  public static final String INSTAGRAM_CLIENT_ID = "UWEJSjjsdkfjdsfurwRUiwefNOTREALd";
-  public static final String INSTAGRAM_CLIENT_SECRET = "dcSjjsdkfjdsfurwRUiwefNOTREALd";
-
+  public static final String USER_ID = "user#group";
+  public static final String DEVELOPER_KEY = "JKKzWaM1feOHnotREALwoeifWEOFJDKS";
 }
