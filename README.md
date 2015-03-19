@@ -1,9 +1,10 @@
-DummyAPI-YalePublic
-===================
+DummyAPI-Keys
+=============
 
 Dummy API Keys for install and building in Travis.
 
-See this link for more details:
+See these links for more details:
 
-	https://github.com/YaleSTC/YalePublic-android/
+	master branch - https://github.com/YaleSTC/YalePublic-android/
+	qualtrics branch - https://github.com/jasonkliu/qualtrics-android/
 
