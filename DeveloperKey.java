@@ -1,6 +1,6 @@
 // Copyright 2012 Google Inc. All Rights Reserved.
 
-package edu.yalestc.yalepublic;
+package edu.yale.yalepublic;
 
 /**
  * Static container class for holding a reference to your YouTube Developer Key.
