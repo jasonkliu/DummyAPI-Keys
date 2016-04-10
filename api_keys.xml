@@ -6,5 +6,7 @@
 
     <string name="GoogleMapsKey">gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe</string>
     <string name="YaleAPIKey">gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe</string>
+    <string name="YahooOAuthClientID">gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe</string>
+    <string name="YahooOauthClientSecret">gGiwefioLWEfiweflIWEkdfkdsJFieNOTREALwe</string>
 
 </resources>
